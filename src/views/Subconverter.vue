@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://clashv2s.clashv2rss.workers.dev/config sub?" }],
+        backendOptions: [{ value: "https://clashv2s.clashv2rss.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
